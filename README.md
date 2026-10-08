@@ -313,3 +313,5 @@ and the current kernel development workflow do not need it.
 Apache-2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE). The clean-room boundary is documented in
 [forbric-loader/CREDITS.md](forbric-loader/CREDITS.md) and
 [forbric-loader/MAPPINGS.md](forbric-loader/MAPPINGS.md).
+
+<img width="1672" height="941" alt="dc0a695f92ef336d0bc185df9a6c2342" src="https://github.com/user-attachments/assets/29647a74-32c8-467a-a1a8-ad8f7602576a" />
