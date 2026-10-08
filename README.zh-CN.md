@@ -1,4 +1,4 @@
-# Forbric
+<img width="1672" height="941" alt="dc0a695f92ef336d0bc185df9a6c2342" src="https://github.com/user-attachments/assets/fbd932d7-cdf0-44a0-8812-d6eee2103bb5" /># Forbric
 
 [English](README.md) | 简体中文
 
@@ -194,3 +194,5 @@ python3 tools/dev.py server --accept-eula   # a separate local server instance
 ### 许可证
 
 Apache-2.0——见 [LICENSE](LICENSE) 和 [NOTICE](NOTICE)。净室边界的说明见 [forbric-loader/CREDITS.md](forbric-loader/CREDITS.md) 和 [forbric-loader/MAPPINGS.md](forbric-loader/MAPPINGS.md)。
+
+<img width="1672" height="941" alt="dc0a695f92ef336d0bc185df9a6c2342" src="https://github.com/user-attachments/assets/6e5e8aaf-d3fb-4be0-b56b-fa941ed29458" />
